@@ -1,4 +1,4 @@
-# PWA - instantapp for Treedbox
+# instantapp for Treedbox - PWA
 Basic InstantApp in HTML5 is a Progressive Web App - PWA that works offline.
 
 By: [Jonimar Marques Policarpo](http://treedbox.com) at [Treedbox](http://treedbox.com)
